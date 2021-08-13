@@ -17,6 +17,4 @@ Nombre: Lalo
 Luis Lopez 2
 
 
-Luis López
-
 
